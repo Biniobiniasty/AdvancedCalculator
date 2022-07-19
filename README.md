@@ -12,7 +12,7 @@
   
   
   <table><tr><td>
-    <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/4.png" height="500"/>
+    <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/4.png" height="450" width="300"/>
     </td><td>
     <b>Description functions:</b><br />
     [n!] - Factorial <br />
@@ -27,10 +27,8 @@
     [|n|] - Absolute value<br />
     [Sin],[Cos],[Tan],[Ctg] - Trigonometric functions<br />
     [Bin],[Oct],[Hex] - Display number in [binary] [octal] [hexadecimal]<br />
-    </td></tr><tr><td>
-    <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/2.png" height="500"/>
     </td><td>
-    Opis2
+    <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/2.png" height="500"/>
     </td></tr>
   </table>
   
