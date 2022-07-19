@@ -15,7 +15,7 @@
     <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/4.png" height="450" width="300"/>
     </td><td>
     <b>Description functions:</b><br />
-    [n!] - Factorial <br />
+    <font color="yellow">[n!]</font> - Factorial <br />
     [√] - Square root<br />
     [ln] - Natural logarithm<br />
     [n³] - Cube<br />
