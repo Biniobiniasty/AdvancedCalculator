@@ -1,6 +1,6 @@
 <center>
 <table><tr><td>
-<img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/1.png" height="400" width="300"/>
+<img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/1.png" height="450" width="300"/>
   </td><td style="text-align: center">
   ADVANCED CALCULATOR<br /><br />
   The calculator performs normal calculations<br /> and has options to perform mathematical functions and algorithms.
