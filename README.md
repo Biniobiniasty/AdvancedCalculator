@@ -1,5 +1,5 @@
 <center>
-<table border="0"><tr><td>
+<table style="border: 0px"><tr><td>
 <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/1.png" height="450" width="300"/>
   </td><td style="text-align: center">
   <b>ADVANCED CALCULATOR</b><br /><br />
