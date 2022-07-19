@@ -2,7 +2,7 @@
 <table><tr><td>
 <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/1.png" height="450" width="300"/>
   </td><td style="text-align: center">
-  <b><u>ADVANCED CALCULATOR</u></b><br /><br />
+  <b><i>ADVANCED CALCULATOR</i></b><br /><br />
   The calculator performs normal calculations<br /> and has options to perform mathematical functions and algorithms.
   </td><td>
       <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/3.png" height="450" width="300"/>
