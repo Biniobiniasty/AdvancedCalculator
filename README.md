@@ -1,4 +1,9 @@
 
+<style>
+  td {
+  text-align: center;
+}
+  </style>
 <center>
 <table><tr><td>
 <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/1.png" height="500"/>
