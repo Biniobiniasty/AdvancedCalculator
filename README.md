@@ -14,7 +14,9 @@
   <table><tr><td>
     <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/4.png" height="500"/>
     </td><td>
-    Opis1
+    Description functions:<br />
+    [n!] - Factorial <br />
+    [√] - Square root<br />
     </td></tr><tr><td>
     <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/2.png" height="500"/>
     </td><td>
