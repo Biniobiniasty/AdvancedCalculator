@@ -9,10 +9,10 @@
   </td></tr>
   </table>
 
+  
+  
   <table><td><td>
     <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/2.png" height="500"/>
-    </td><td>
-
     </td><td>
     <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/4.png" height="500"/>
     </td></tr>
