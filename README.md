@@ -26,7 +26,7 @@
     [1/n] - Divide one by value<br />
     [|n|] - Absolute value<br />
     [Sin],[Cos],[Tan],[Ctg] - Trigonometric functions<br />
-    [Bin],[Oct],[Hex] - Display number in [binary] [octal] [hexadecimal]<br />
+    [Bin],[Oct],[Hex] - Display number in binary, octal, hexadecimal<br />
     </td><td>
     <img src="https://github.com/Biniobiniasty/AdvancedCalculator/blob/master/Screenshoot/2.png" height="450" width="300"/>
     </td></tr>
